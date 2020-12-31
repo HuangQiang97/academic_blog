@@ -41,4 +41,4 @@ highlight_name: false
 Huang qiang is a graduate student of signal processing at Southeast University. His research interests include deep reinforcement learning,  massive MIMO, 6G, millimeter wave communication. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
