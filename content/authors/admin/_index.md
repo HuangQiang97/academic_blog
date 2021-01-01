@@ -1,7 +1,7 @@
 ---
 title: Huang Qiang
 role: Graduate student of Signal Processing
-avatar_filename: boynextdoor.jpg
+avatar_filename: profile.png
 bio: My research interests include deep reinforcement learning,  massive MIMO,
   6G, millimeter wave communication.
 interests:
@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/huangchiang97
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/huangqiang97
+    link: https://linkedin.com/in/huangqiang97
   - display:
       header: false
     link: https://github.com/HuangQiang97
